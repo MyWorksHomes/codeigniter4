@@ -1,0 +1,11 @@
+#--------------------------------------------------------------------
+# E-mail
+#--------------------------------------------------------------------
+
+email.protocol = 'smtp'
+email.SMTPHost = 'smtp.gmail.com'
+email.SMTPUser = 'seuemail@gmail.com'
+email.SMTPPass = 'suasenha'
+email.SMTPPort = '465'
+email.SMTPCrypto = 'ssl'
+email.mailType = 'html'
